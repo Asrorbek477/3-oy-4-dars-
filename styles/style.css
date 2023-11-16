@@ -563,5 +563,9 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 24px; 
-    flex-direction: column;
+    padding-right: 15px;
+}
+
+.product-item1-text .product-item1_date-number {
+     
 }
